@@ -13,6 +13,8 @@
 ## About Me
 
 I'm just a regular everyday normal whaka-whaka (c).
+
+
 Seems like there is nothing special about me.
 Nevertheless, I really like learning new skills and once I've tried to make a website just for fun.
 The more I've studied the more I needed. 
@@ -30,7 +32,7 @@ Rs-school has the reputation of really high-level educational course and it seem
 
 ## Code Example
 
-Longest vowel chain kata from codewars:
+_Longest vowel chain_ kata from codewars:
 
 ```
 function solve(s){
@@ -50,7 +52,7 @@ Previous jobs had nothing to do with coding so I have no experience yet.
 ## Education
 
 * Minsk Building College, mason
-* [CS50 on Youtube](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)CS50 on Youtube
+* [CS50 on Youtube](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 * [Learn JavaScript](https://learn.javascript.ru/)
 * [The Complete Web Development Bootcamp](https://www.youtube.com/watch?v=MM6TjxrmvoU&list=PLmv0h_u-BMKtON5uMdSz4_4zwnd2gyXNq&index=1)
 
