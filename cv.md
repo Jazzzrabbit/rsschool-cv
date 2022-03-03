@@ -50,9 +50,9 @@ Previous jobs had nothing to do with coding so I have no experience yet.
 ## Education
 
 * Minsk Building College, mason
-* [https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8](CS50 on Youtube)
-* [https://learn.javascript.ru/](Learn javascript)
-* [https://www.youtube.com/watch?v=MM6TjxrmvoU&list=PLmv0h_u-BMKtON5uMdSz4_4zwnd2gyXNq&index=1](The Complete Web Development Bootcamp)
+* [CS50 on Youtube](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)CS50 on Youtube
+* [Learn JavaScript](https://learn.javascript.ru/)
+* [The Complete Web Development Bootcamp](https://www.youtube.com/watch?v=MM6TjxrmvoU&list=PLmv0h_u-BMKtON5uMdSz4_4zwnd2gyXNq&index=1)
 
 ## English
 
