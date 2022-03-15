@@ -12,9 +12,6 @@
 
 ## About Me
 
-I'm just a regular everyday normal whaka-whaka (c).
-
-
 Seems like there is nothing special about me.
 Nevertheless, I really like learning new skills and once I've tried to make a website just for fun.
 The more I've studied the more I needed. 
@@ -58,8 +55,6 @@ Previous jobs had nothing to do with coding so I have no experience yet.
 
 ## English
 
-__C1__
-__Advanced__
-You can use the language flexibly and effectively for social, academic and professional purposes.
+__C1 Advanced__
 
 According to preply.com and cambridgeenglish.org online exams.
